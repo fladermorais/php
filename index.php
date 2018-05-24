@@ -1,1 +1,3 @@
-Teste de arquivo
+<?php
+  echo "Olá, Mundo";
+?>
